@@ -1,0 +1,28 @@
+h1 {
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.balls {
+    height: auto;
+    width: 300px;
+    text-align: center;
+}
+
+.cock {
+    height: auto;
+    width: 300px;
+    text-align: center;
+}
+
+.cum {
+    height: auto;
+    width: 300px;
+    text-align: center;
+}
+
+body {
+    background-color: #e0e0e0;
+  }
